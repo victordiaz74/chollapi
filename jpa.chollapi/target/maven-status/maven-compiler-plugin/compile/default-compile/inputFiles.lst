@@ -1,0 +1,13 @@
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/OfertaDAO.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/impl/GenericDAOImplJpa.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/GenericDAO.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/ProductoDAO.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/modelo/Oferta.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/presentacion/App.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/modelo/Producto.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/presentacion/AppDAO.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/presentacion/ProductoController.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/impl/ProductoDAOImplJpa.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/jpa/Utilidades.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/persistencia/dao/impl/OfertaDAOImplJpa.java
+/home/alumno/chollapi/jpa.chollapi/src/main/java/presentacion/OfertaController.java
